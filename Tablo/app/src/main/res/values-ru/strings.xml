@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tablo</string>
+    <string name="marsota">марзота</string>
+    <string name="fs">ФСС</string>
+    <string name="sbr">Сброс</string>
+</resources>
